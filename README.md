@@ -1,0 +1,1 @@
+# Earthquakes_Costa_Rica
