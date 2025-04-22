@@ -69,6 +69,6 @@ python your_script_name.py
 ## 🧠 Credits
 
 - **Data Source**: [RSN-UCR](https://rsn.ucr.ac.cr/)
-- **Author**: [Your Name or Username]
+- **Author**: [Annette Morúa]
 
 ---
